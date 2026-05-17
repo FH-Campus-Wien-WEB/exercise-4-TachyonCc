@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "server/movies.json",
+    "server/users.json"
+  ]
+}

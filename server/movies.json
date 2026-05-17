@@ -79,6 +79,90 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
       "imdbRating": 6.9
+    },
+    "tt0118583": {
+      "imdbID": "tt0118583",
+      "Title": "Alien: Resurrection",
+      "Released": "26 Nov 1997",
+      "Runtime": 109,
+      "Genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "Writers": [
+        "Dan O'Bannon",
+        "Ronald Shusett",
+        "Joss Whedon"
+      ],
+      "Actors": [
+        "Sigourney Weaver",
+        "Winona Ryder",
+        "Dominique Pinon"
+      ],
+      "Plot": "Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDMyNmU5ZGQtNzhiZi00NjRjLTk3NGUtMmQ5YWU4ODlkNTBhXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "Metascore": 62,
+      "imdbRating": 6.2
+    },
+    "tt18412256": {
+      "imdbID": "tt18412256",
+      "Title": "Alien: Romulus",
+      "Released": "16 Aug 2024",
+      "Runtime": 119,
+      "Genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "Directors": [
+        "Fede Alvarez"
+      ],
+      "Writers": [
+        "Dan O'Bannon",
+        "Ronald Shusett",
+        "Fede Alvarez"
+      ],
+      "Actors": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux"
+      ],
+      "Plot": "While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 64,
+      "imdbRating": 7.1
+    },
+    "tt0370263": {
+      "imdbID": "tt0370263",
+      "Title": "Alien vs. Predator",
+      "Released": "13 Aug 2004",
+      "Runtime": 101,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "Directors": [
+        "Paul W.S. Anderson"
+      ],
+      "Writers": [
+        "Paul W.S. Anderson",
+        "Dan O'Bannon",
+        "Ronald Shusett"
+      ],
+      "Actors": [
+        "Sanaa Lathan",
+        "Lance Henriksen",
+        "Raoul Bova"
+      ],
+      "Plot": "During an archaeological expedition on Bouvetøya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_SX300.jpg",
+      "Metascore": 29,
+      "imdbRating": 5.7
     }
   },
   "jane": {
@@ -165,6 +249,32 @@
       "Plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
+      "imdbRating": 8.5
+    },
+    "tt0078748": {
+      "imdbID": "tt0078748",
+      "Title": "Alien",
+      "Released": "22 Jun 1979",
+      "Runtime": 117,
+      "Genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Ridley Scott"
+      ],
+      "Writers": [
+        "Dan O'Bannon",
+        "Ronald Shusett"
+      ],
+      "Actors": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "John Hurt"
+      ],
+      "Plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "Metascore": 89,
       "imdbRating": 8.5
     }
   }
